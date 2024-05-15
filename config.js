@@ -7,13 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['254736958034', 'KHALID💚', true],
-  ['923470027813', 'AHMAD ALI❤', true], 
+  ['94762383636', 'AMISHKA 💚', true],
   [''] 
 ] //Number of owners
 
-global.mods = ['254736958034','923470027813'] 
-global.prems = ['254736958034', '923470027813', '254736958034']
+global.mods = ['94762383636'] 
+global.prems = ['94762383636']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -47,10 +46,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'AMZ'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = 'KHALID-tech' 
+global.packname = 'MATP┃ᴮᴼᵀ' 
+global.author = 'AMIZ' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://github.com/Khalid-niccur/GURU-BOT'
 global.fgsc = 'https://github.com/Khalid-niccur/GURU-BOT' 
